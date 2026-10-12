@@ -1,0 +1,6 @@
+{
+  "name": "Threat Hunt",
+  "description": "SOC cybersecurity investigation simulator for analyzing fictional host intrusions, processes, and network threats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
